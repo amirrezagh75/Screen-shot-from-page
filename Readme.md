@@ -5,4 +5,5 @@ This app based on phantome js and  it can take screen shot from a page element.
 
 ## How to use it ?
 > 1- npm install
+
 > 2- npm start
